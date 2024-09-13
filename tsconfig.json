@@ -1,5 +1,5 @@
 {
   "extends": "astro/tsconfigs/strict",
   // Comment out the exclude property to have `npx astro check` fail
-  "exclude": ["dagger"]
+  // "exclude": ["dagger"]
 }
