@@ -1,0 +1,6 @@
+{
+  "name": "astro-project",
+  "sdk": "typescript",
+  "source": "dagger",
+  "engineVersion": "v0.13.0"
+}
